@@ -20,6 +20,10 @@ print(np.zeros((2,3,3), dtype=int))
 print("-"*20)
 print(np.zeros((2,2,3,3), dtype=int))
 
+arr = np.zeros(4, dtype=int)
+arr = arr.reshape(2,2)
+print(arr) # [[0 0] [0 0]]
+
 #output:
 # [0. 0. 0. 0. 0.]
 # --------------------
