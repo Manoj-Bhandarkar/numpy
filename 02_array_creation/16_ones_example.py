@@ -3,3 +3,8 @@ import numpy as np
 arr = np.ones(6)
 print(arr)
 print(type(arr))
+print("-"*20)
+print(np.ones(6))
+print(np.ones(6, dtype=int))
+print(np.ones(6, dtype=float))
+print(np.ones(6, dtype=bool))
