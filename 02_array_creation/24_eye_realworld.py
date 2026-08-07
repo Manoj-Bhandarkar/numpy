@@ -33,6 +33,7 @@ print(result)
 print("\nAre both matrices equal?", np.array_equal(image, result))
 
 # Output
+
 # Original Image Matrix:
 # [[120 150 180]
 #  [200 220 240]
