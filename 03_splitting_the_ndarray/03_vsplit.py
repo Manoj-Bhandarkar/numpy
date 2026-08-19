@@ -12,7 +12,6 @@ print("After Vertical Splitting:")
 for x in result:
     print(x)
 
-
 # output
 # Original Matrix:
 # [[ 1  2  3]
