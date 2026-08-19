@@ -23,13 +23,14 @@ np.split() divides an array into equal-sized sub-arrays.
 ```python
 numpy.split(array, indices_or_sections, axis=0)
 ---
-
+---
+---
 ## 2. array_split()
 
 np.array_split() is similar to np.split(), but it can also divide an array into unequal-sized parts.
 ---
 
-
+----
 ## 3. vsplit()
 
 np.vsplit() splits an array vertically along the rows.
@@ -37,5 +38,6 @@ np.vsplit() splits an array vertically along the rows.
 It is mainly used with 2-D or higher-dimensional arrays.
 ---
 numpy.vsplit(array, sections)
+---
 ---
     
