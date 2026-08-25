@@ -12,3 +12,9 @@ print("Third element:", arr[2])
 # Negative indexing
 print("Last element:", arr[-1])
 print("Second last element:", arr[-2])
+
+# Original Array: [10 20 30 40 50]
+# First element: 10
+# Third element: 30
+# Last element: 50
+# Second last element: 40
