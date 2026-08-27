@@ -22,7 +22,8 @@ print("Second Row:", matrix[1])
 print("\nFirst Column:", matrix[:, 0])
 print("Second Column:", matrix[:, 1])
 
-# Output Matrix:
+# Output Matrix:\
+    
 # [[10 20 30]
 #  [40 50 60]
 #  [70 80 90]]
