@@ -18,7 +18,6 @@ for x in result:
 #  [ 9 10 11 12]]
 
 # After Horizontal Splitting:
-
 # [[1 2]
 #  [5 6]
 #  [9 10]]
