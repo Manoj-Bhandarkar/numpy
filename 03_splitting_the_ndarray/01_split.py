@@ -5,6 +5,7 @@ a = np.arange(1, 13)
 print("Original Array:")
 print(a)
 
+
 result = np.split(a, 3)
 print(result)
 print("After Splitting:")
