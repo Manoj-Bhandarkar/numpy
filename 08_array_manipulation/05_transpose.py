@@ -70,4 +70,3 @@ print(matrix.T)
 # Transpose:
 # [[1 3]
 #  [2 4]]
-# PS D:\project_repo\numpy> 
